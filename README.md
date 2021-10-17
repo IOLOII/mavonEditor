@@ -1,3 +1,5 @@
+界面风格不错，缺点在于左侧显示效果上，是一个textarea 所有的符号都在里面，给非markdown用户构建页面时造成一定的视觉影响
+
 # mavonEditor
 
 > 喜爱 & 想要将mavonEditor变得更好的小伙伴，邮这里 hines.zhu@gmail.com
